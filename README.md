@@ -81,3 +81,4 @@ endmodule
 <img width="1715" height="917" alt="DE EXP4 im2" src="https://github.com/user-attachments/assets/82815072-42ae-462b-b386-7a2ac02e3b8c" />
 
 **RESULTS**
+Thus the JK-Flipflop using if-else are designed and verified using Quartus software.
